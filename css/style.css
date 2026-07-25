@@ -292,19 +292,37 @@ a.slab-cta {
     margin-bottom: 1rem;
 }
 
-/* ── Unit label — marks the start of a new unit, theme name only, no numbering ── */
-.unit-label {
-    max-width: var(--max-w);
-    margin: 0 auto 1.5rem;
-    padding: 0 2rem;
-    font-family: var(--font-sans);
-    font-size: 0.8rem;
-    font-weight: 700;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--crimson);
+/* ═══════════════════════════════════════════
+   UNIT DIVIDER (biology unit — Human Physiology, etc.)
+═══════════════════════════════════════════ */
+.slab-divider {
+    background: transparent;
+    padding: 5rem 0;
 }
-.slab-dark .unit-label { color: #E58A98; }
+.divider-inner {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2.25rem 2rem;
+    text-align: center;
+    background: var(--charcoal);
+    border: 1px solid rgba(255,255,255,0.14);
+    border-radius: 10px;
+}
+.divider-inner h2 {
+    font-family: var(--font-serif);
+    font-size: clamp(1.6rem, 3.6vw, 2.6rem);
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    color: #ffffff;
+}
+.divider-inner .divider-rule {
+    display: block;
+    width: 56px;
+    height: 3px;
+    background: var(--crimson);
+    margin: 1rem auto 0;
+    border-radius: 2px;
+}
 
 /* ── Pull quote ── */
 .pull-quote {
