@@ -1,0 +1,530 @@
+IMAGE SUGGESTIONS — English_Biology_Site
+==========================================
+For each entry below: a 1-line summary (chapter + what the picture shows),
+followed by a ready-to-paste ChatGPT/DALL-E image-generation prompt.
+
+All images: photorealistic photograph, VERTICAL 9:16 portrait aspect ratio
+(e.g. render at 1024x1820 or similar 9:16 canvas — no illustration, no
+diagram, no text/labels in the image). Science and biological accuracy
+come first; a West Bengal rural-village setting is used wherever it fits
+naturally as a secondary, atmospheric layer — never forced onto a chapter
+where it would misrepresent the biology (e.g. Sundarbans mangrove/tiger
+chapters use the real Sundarbans, not a generic village).
+
+==========================================
+HERO — The Profound Mystery of Life
+==========================================
+Summary: The site's opening image — fireflies in a Bengal bamboo grove at
+dusk, a quiet emblem of life's unexplained spark (bioluminescence) and the
+wonder that drives the whole subject.
+
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Blue-hour
+dusk in a rural Bengal bamboo grove beside a still village pond. Dozens of
+fireflies glow in mid-air among the bamboo stalks, their bioluminescent
+light rendered as soft, warm, believable points of glow (not lens flares).
+A lone silhouetted figure — a village child — stands at the edge of the
+grove looking up in quiet wonder, back to camera, small in the frame to
+emphasize scale. Faint mist rests low over the pond water, reflecting the
+last indigo light of the sky and a few scattered fireflies. Long exposure
+aesthetic but sharp enough to read as a real photograph, shot on a
+full-frame camera, 35mm lens, shallow depth of field, natural color
+grading, no text, no illustration style — must look like an actual
+photograph capable of winning a nature-photography award. The mood is
+awe and mystery: life producing its own light, unexplained and beautiful."
+
+==========================================
+CLASS 11 — UNIT: DIVERSITY IN THE LIVING WORLD
+==========================================
+
+Chapter 1 — Diversity in the Living World
+Summary: The sheer variety of life in one frame — a biologist crouched at
+a Bengal wetland at dawn, surrounded by visibly different life forms.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Golden
+early-morning light over a shallow freshwater wetland in rural West Bengal,
+reeds and water hyacinth in the foreground. A young Indian biologist in
+simple field clothes crouches at the water's edge with a notebook,
+studying the scene. Within the same frame, naturally placed and in sharp
+focus: a purple heron standing in shallow water, a dragonfly resting on a
+reed, a cluster of water hyacinth flowers, and a butterfly mid-flight
+above them — all coexisting believably in one wetland tableau, not
+composited or fantastical. Soft mist over the water, warm golden-hour
+light, shot on a telephoto-compressed perspective like a real wildlife
+photograph. No text, no labels. The mood is quiet scientific wonder at
+biodiversity."
+
+Chapter 2 — Biological Classification
+Summary: The five kingdoms of life implied in one rustic frame — a clay
+pot of fermenting curd, a mossy log with mushrooms, and paddy leaves, shot
+in a Bengal village courtyard.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A rustic
+West Bengal village courtyard corner in soft morning light. In the
+foreground, an earthen clay pot of curd (doi) sits on a wooden stool, its
+surface faintly bubbled from fermentation, condensation on the clay.
+Behind it, a moss-covered fallen bamboo log with a small cluster of pale
+mushrooms growing from its bark. To the side, a few broad green paddy
+leaves lean into frame, and a single-celled pond-scum green film is
+visible on a stone water trough nearby. Natural textures throughout —
+weathered wood, damp clay, morning dew. Shot with a macro-leaning lens,
+shallow depth of field, warm earthy color palette. No text, no labels,
+no diagram overlays. The mood is quiet and observational, like a still
+life that happens to contain a fungus, an alga, and a bacterial culture
+side by side."
+
+Chapter 3 — Animal Kingdom
+Summary: Animal phyla diversity captured in one Bengal creek at golden
+hour — fish, frog, snail, and dragonfly sharing a single frame.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A narrow
+freshwater creek (khal) in rural West Bengal at golden hour, shot low and
+close to the waterline. In sharp focus within the same believable scene: a
+small freshwater fish breaking the surface, a green pond frog perched on a
+wet stone, a freshwater snail on a submerged leaf, and a dragonfly hovering
+just above the water. Reflections of golden light ripple across the water
+surface. Shot like a high-end nature documentary still, shallow depth of
+field with the nearest subject sharpest, natural muted greens and ambers.
+No text, no labels, no illustration style. The mood conveys the breadth of
+animal body plans coexisting in one small wild space."
+
+Chapter 4 — Structural Organisation in Plants (Morphology of Flowering
+Plants)
+Summary: A farmer holding up a whole uprooted paddy plant, showing root,
+stem, leaf, and flower together in one hand.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A West
+Bengal farmer in a simple cotton gamchha and dhoti stands at the edge of a
+paddy field in soft morning light, holding up a single freshly uprooted
+rice plant at eye level so its full structure is visible — muddy fibrous
+roots, a slender stem, blade-like leaves, and a young flowering
+inflorescence at the top. Background is a soft-focus green paddy field
+stretching to the horizon under a pale morning sky. Shot on a
+portrait-length lens, shallow depth of field isolating the plant and the
+farmer's hands and face, warm natural light. No text, no labels. The mood
+is quiet pride and familiarity with the plant's complete form."
+
+Chapter 5 — Anatomy of Flowering Plants
+Summary: A student's eye at a microscope, examining a cross-sectioned
+plant stem in a rural school science lab.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Inside a
+modest rural West Bengal school science lab, morning sunlight streaming
+through a window with peeling paint. A teenage student leans over an old
+but well-kept brass-and-black student microscope, one eye at the eyepiece,
+concentrating. On the wooden lab bench beside the microscope, a thin,
+translucent cross-section of a plant stem sits on a glass slide, backlit
+by the window so its ringed internal structure is faintly visible even to
+the naked eye. Dust motes visible in the sunbeam. Shot with a shallow
+depth of field, warm documentary-style lighting, focus on the student's
+concentration and the glowing slide. No text, no labels. The mood is
+curiosity and quiet discovery."
+
+Chapter 6 — Structural Organisation in Animals
+Summary: A frog on a lotus leaf in a Bengal village pond — the model
+organism for animal organ-system study, in its natural habitat.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A green
+pond frog sits centered on a broad lotus leaf floating on a still village
+pond in rural West Bengal, captured at eye level with the water surface.
+Soft early morning light, gentle mist rising off the water, a few lotus
+flowers soft-focus in the background. Water droplets visible on the
+frog's skin and the leaf's waxy surface. Shot on a macro lens with
+creamy background blur, natural green and pink color palette. No text,
+no labels, no diagram overlay. The mood is calm, intimate, and
+biologically precise — a single well-observed organism in its habitat."
+
+Chapter 7 — Cell: Structure and Functions
+Summary: An onion-peel cell slide glowing under a school microscope's
+light — the "unit of life" made visible in a rural classroom.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Close,
+intimate shot inside a rural West Bengal school science lab. A glass
+microscope slide rests illuminated on the stage of an old student
+microscope, backlit so a thin, translucent sliver of onion peel glows
+faintly amber. A student's hand carefully adjusts the focus knob, softly
+blurred in the foreground. Warm tungsten desk-lamp light mixes with cool
+daylight from a nearby window. Shot with a macro lens, shallow depth of
+field centered on the glowing slide and the focus knob. No text, no
+labels, no rendered cell diagram — the image should look like a real
+photograph of lab equipment, not an illustration. The mood is quiet
+scientific discovery."
+
+Chapter 8 — Biomolecules
+Summary: A Bengali kitchen tableau of rice, lentils, and curd — the
+everyday biomolecules (carbohydrates, proteins, enzymes) of a meal.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A warm,
+softly lit West Bengal kitchen counter shot from slightly above. Neatly
+arranged: a brass bowl of uncooked rice grains, a bowl of soaked masoor
+dal (red lentils), a small clay pot of fresh curd (doi) with a thin skin
+forming on top, and a few mustard seeds scattered nearby. Morning light
+enters from a side window, casting soft shadows across the textured
+brass and clay surfaces. Shot on a macro-leaning lens, shallow depth of
+field, warm golden color grading typical of food photography. No text,
+no labels. The mood is homely and tactile — biomolecules as they actually
+appear on a kitchen table, not in a lab."
+
+Chapter 9 — Cell Cycle and Cell Division
+Summary: Rows of tiny rice seedlings in a village nursery bed at dawn —
+growth and multiplication made visible.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A
+flooded rice-seedling nursery bed in rural West Bengal at sunrise, shot
+low and close so dozens of identical bright-green seedling shoots fill
+the frame in neat rows, each just a few centimetres tall, rising out of
+shallow water. Dew and soft mist cling to the tips of the seedlings.
+Warm low-angle sunrise light grazes across the field, catching individual
+water droplets. Shot on a macro-to-normal lens, very shallow depth of
+field with the nearest seedlings sharp and the rest softly blurred into a
+green field. No text, no labels. The mood evokes countless identical
+units multiplying from a single origin."
+
+Chapter 10 — Photosynthesis in Higher Plants
+Summary: Sunlight streaming through paddy leaves at sunrise — light
+captured by chlorophyll, made visible as a real photograph.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Inside a
+lush green paddy field in rural West Bengal at sunrise, camera positioned
+low among the rice leaves so that bright golden sunlight streams directly
+through several translucent green leaves in the foreground, their veins
+and cell structure faintly backlit. Dew drops on the leaf edges catch the
+light like tiny prisms. Soft atmospheric haze in the background field.
+Shot on a wide-to-normal lens with strong natural lens flare from the low
+sun, vivid but natural greens and golds. No text, no labels. The mood is
+luminous and quietly awe-inspiring — light becoming visible as life's
+raw material."
+
+Chapter 11 — Respiration in Plants
+Summary: A clay pot of fermenting rice-water (panta bhat) at dawn — plant
+cells breaking down sugar, visible as bubbling fermentation.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A
+traditional West Bengal village kitchen at early dawn. A wide clay pot of
+overnight-soaked rice (panta bhat) sits on a low wooden stool, its surface
+showing faint fermentation bubbles, with soft steam rising in the cool
+morning air. A shaft of early light falls across the pot from a doorway,
+illuminating rising steam particles. Rustic textures — worn clay, a
+woven jute mat, a brass ladle resting beside the pot. Shot on a macro
+lens, shallow depth of field, warm low-light color grading. No text, no
+labels. The mood is humble and elemental — the quiet chemistry of
+respiration happening in an ordinary kitchen."
+
+Chapter 12 — Plant Growth and Development
+Summary: A farmer measuring young mango saplings of different heights in
+a rural nursery — visible stages of plant growth side by side.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A small
+rural nursery plot in West Bengal, morning light. A farmer crouches beside
+a row of young mango saplings of visibly different heights and maturity —
+from a tiny two-leaf seedling to a knee-high sapling with a small trunk —
+holding a simple wooden measuring stick against the tallest one. Loose
+soil, small clay irrigation channels, a few fallen leaves nearby. Shot on
+a normal focal length lens, natural outdoor light, shallow depth of field
+keeping the farmer's hands and the saplings sharp. No text, no labels.
+The mood is patient and observational, capturing growth as a visible
+progression."
+
+==========================================
+CLASS 11 — UNIT: HUMAN PHYSIOLOGY
+==========================================
+
+Chapter 13 — Breathing and Exchange of Gases
+Summary: A boatman rowing on the Ganges at dawn, his breath visible as
+condensation in the cold morning air — gas exchange made visible.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A
+weathered boatman rows a wooden country boat on the Ganges (Hooghly) river
+in West Bengal at first light on a cool winter morning. His breath is
+clearly visible as a small cloud of condensation in the cold air,
+backlit by the low golden sun rising over the water. Gentle mist hovers
+over the river surface. Shot on a telephoto-compressed lens from a nearby
+boat or ghat, shallow depth of field, warm-cool contrast between the
+golden sunlight and the cool blue mist. No text, no labels. The mood is
+serene and physical — breath as a visible, living process."
+
+Chapter 14 — Body Fluids and Circulation
+Summary: A rural health worker checking a villager's pulse at a village
+health camp — circulation made tangible through touch.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Inside a
+modest rural West Bengal primary health centre, soft window light. A
+female ASHA health worker in a plain cotton saree gently holds the wrist
+of an elderly villager, two fingers checking his pulse, a simple
+stethoscope draped around her neck. Both faces calm and focused, framed
+from the shoulders up with hands in sharp foreground focus. Warm, muted
+color palette typical of a rural clinic — whitewashed wall, a wooden
+bench, a faded health-awareness poster blurred in the background. Shot on
+a portrait lens, shallow depth of field. No text, no readable signage. The
+mood is quiet care and the tangible, felt reality of a heartbeat."
+
+Chapter 15 — Excretory Products and their Elimination
+Summary: A villager pumping clear water from a hand tube-well at dawn —
+a natural visual echo of the kidney's filtration function.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A rural
+West Bengal courtyard at dawn. A villager works the handle of a cast-iron
+hand tube-well, a strong stream of crystal-clear water gushing out into a
+brass pot below, captured mid-motion with water droplets frozen sharply
+in the air. Soft golden morning light backlights the water stream. Damp
+stone flooring, a few scattered leaves. Shot on a fast shutter speed to
+freeze the water droplets, shallow depth of field, warm natural light. No
+text, no labels. The mood is clean, elemental, and quietly symbolic of
+filtration without being literal or medical."
+
+Chapter 16 — Locomotion and Movement
+Summary: A traditional Bengali wrestler (kushti) mid-throw in a village
+akhara at dawn — muscle and skeleton in visible, dynamic action.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A rural
+West Bengal akhara (traditional mud wrestling ground) at early morning,
+dust hanging in golden backlit sunbeams. Two wrestlers in traditional
+langot, mid-throw, muscles visibly straining, one lifting the other off
+the ground in a dynamic, powerful pose. Freeze-motion sharpness on the
+lead wrestler, slight motion blur on flying dust and hair. Warm, dusty,
+high-contrast morning light. Shot on a fast shutter, telephoto
+compression, documentary sports-photography style. No text, no labels.
+The mood is raw physical power and controlled movement."
+
+Chapter 17 — Neural Control and Coordination
+Summary: A fisherman's split-second reflex as a fish strikes his line —
+the nervous system's speed captured mid-action.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A rural
+West Bengal fisherman sits at the edge of a still pond at golden hour, a
+simple bamboo fishing rod in hand, captured at the exact instant a fish
+strikes — his forearm muscles tensed, eyes sharp and alert, the rod tip
+bent and a small splash frozen mid-air on the water surface. Warm late-
+afternoon backlight, water droplets sharply frozen in the air. Shot on a
+fast shutter speed, telephoto lens, shallow depth of field on his face and
+hands. No text, no labels. The mood is instantaneous reaction — the body
+responding faster than conscious thought."
+
+Chapter 18 — Chemical Coordination and Integration
+Summary: A mother breastfeeding her infant in a village home — hormonal
+signaling (oxytocin, prolactin) expressed as a tender, real moment.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Inside a
+simple, warmly lit West Bengal village home, a mother sits on a low
+wooden cot breastfeeding her infant, both her face and the baby's tiny
+hand in soft focus, gentle window light falling across them. Modest,
+tasteful framing — respectful and warm, no explicit exposure, similar to
+a documentary family-life photograph. Muted earthy interior tones, a
+woven basket and a clay water pot softly blurred in the background. Shot
+on a portrait lens, shallow depth of field. No text, no labels. The mood
+is tender and biologically real — the body's chemical signals expressed
+as bonding and care."
+
+==========================================
+CLASS 12 — UNIT: REPRODUCTION
+==========================================
+
+Chapter 19 — Sexual Reproduction in Flowering Plants
+Summary: A bee dusted with pollen mid-flight over a Bengal mustard field
+at sunrise — pollination captured in a single golden frame.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A
+vast, blooming yellow mustard field in rural West Bengal at sunrise, soft
+golden backlight. In sharp macro focus, a honeybee hovers just above a
+bright yellow mustard flower, its legs and body visibly dusted with fine
+yellow pollen, wings a soft motion-blur. Shallow depth of field turns the
+rest of the mustard field into a warm golden blur. Shot on a macro lens
+with natural backlighting creating a soft glow around the bee's wings. No
+text, no labels. The mood is vivid, sunlit, and quietly miraculous — the
+ordinary act of pollination rendered beautifully."
+
+Chapter 20 — Human Reproduction
+Summary: A pregnant village woman receiving a gentle check-up at a rural
+primary health centre — dignified, medically grounded, and warm.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Inside a
+clean, simple rural West Bengal primary health centre, soft daylight
+through a window. A visibly pregnant woman in a cotton saree sits on an
+examination table while a calm female doctor or ASHA worker gently
+checks her pulse or uses a fetal Doppler, both women's expressions warm
+and reassuring. Modest, respectful framing from the waist up, no
+exposed skin beyond hands and faces. Muted clinical-but-warm color
+palette. Shot on a portrait lens, shallow depth of field. No text, no
+labels. The mood is care, anticipation, and quiet dignity."
+
+Chapter 21 — Reproductive Health
+Summary: A health worker counseling a young couple at a village family-
+planning awareness session — reproductive health as community care.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Under
+the shade of a large banyan tree in a West Bengal village, a female
+ASHA health worker sits on a mat facing a young married couple, gently
+explaining something with an open information booklet in her hands (no
+readable text visible, just generic printed shapes). Warm afternoon
+light filters through the tree's leaves, dappling the ground. Respectful,
+documentary-style framing, all three figures clothed modestly in
+everyday rural attire. Shot on a normal lens, natural light, shallow
+depth of field. No text, no labels. The mood is trust, openness, and
+community health education."
+
+==========================================
+CLASS 12 — UNIT: GENETICS AND EVOLUTION
+==========================================
+
+Chapter 22 — Genetics (Principles of Inheritance and Variation)
+Summary: Three generations of a Bengali farming family standing together
+— visible inherited traits passed from grandfather to grandson.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A rural
+West Bengal courtyard at golden hour. Three generations of one family
+stand close together facing the camera — an elderly grandfather, his
+adult son, and a young grandson — their similar facial features, jawlines,
+and builds visibly echoing across the generations. Warm late-afternoon
+light, a simple mud-and-brick house wall as backdrop, a few hens pecking
+near their feet. Shot on a portrait lens, shallow depth of field on all
+three faces. No text, no labels. The mood is warm, familial, and quietly
+illustrative of inherited resemblance without being staged or clinical."
+
+Chapter 23 — Molecular Basis of Inheritance
+Summary: A Bengal handloom weaver's hands at work on an intricate
+Jamdani pattern — a natural visual metaphor for DNA's coded, thread-like
+instructions.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Close,
+intimate shot of a traditional West Bengal handloom weaver's hands at
+work on a wooden tant (handloom), threading and beating an intricate,
+repeating Jamdani sari pattern. Countless fine cream and white threads
+run in parallel, some crossing in precise, code-like sequences. Warm
+window light from the side catches the texture of the threads and the
+weaver's calloused fingers. Shot on a macro lens, shallow depth of field
+on the hands and threads, background workshop softly blurred. No text, no
+labels, no DNA illustration overlay — this must read as a real
+photograph of weaving, not a metaphor made literal. The mood is intricate,
+precise, and quietly profound."
+
+Chapter 24 — Evolution
+Summary: A mudskipper on a Sundarbans mudflat at low tide — a real,
+living example of the ancient transition from water to land.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A wide
+mudflat in the Sundarbans mangrove forest, West Bengal, at low tide during
+soft golden-hour light. In sharp macro focus, a mudskipper fish rests
+propped on its pectoral fins directly on the wet mud, its bulging eyes
+alert, half in and half out of a shallow tidal pool, with mangrove prop
+roots soft-focus in the background. Wet mud reflects the warm sky.
+Shot on a macro-to-telephoto lens, shallow depth of field, natural muted
+browns and golds. No text, no labels. The mood is quietly profound — a
+living organism caught at the literal boundary between two worlds."
+
+==========================================
+CLASS 12 — UNIT: BIOLOGY AND HUMAN WELFARE
+==========================================
+
+Chapter 25 — Human Health and Disease
+Summary: A health worker administering a vaccine to a child at a rural
+immunization camp — immunity made visible as everyday public health.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A rural
+West Bengal immunization camp under a canvas awning. A calm female nurse
+in a simple uniform administers a vaccine to a young child's arm, the
+child held gently by their mother, a slight brave grimace on the child's
+face. A few other mothers and children softly blurred in the background,
+waiting in line. Warm natural daylight, documentary photojournalism
+style. Shot on a portrait lens, shallow depth of field on the nurse's
+hands and the child's face. No text, no labels, no readable signage. The
+mood is reassuring and quietly hopeful — community immunity in action."
+
+Chapter 26 — Microbes in Human Welfare
+Summary: Steaming clay pots of mishti doi (sweetened curd) fermenting at
+a traditional Bengal sweet shop — microbes at work in daily life.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Inside a
+traditional West Bengal sweet shop (mishti-r dokan), rows of small
+terracotta clay pots of mishti doi (sweetened curd) sit on a wooden
+shelf, their tops caramel-brown and faintly set, gentle steam still
+rising from a few freshly poured pots in the foreground. Warm tungsten
+shop light mixes with a shaft of daylight from the doorway. Shot on a
+macro-to-normal lens, shallow depth of field on the nearest pots, warm
+amber color grading. No text, no labels, no readable signage. The mood is
+warm, appetizing, and quietly rooted in everyday fermentation science."
+
+Chapter 27 — Biotechnology: Principles and Processes
+Summary: A researcher's gloved hands loading samples into a gel
+electrophoresis tray — recombinant DNA technology's precise, real
+laboratory process.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. Inside
+a clean, modern genetics laboratory, close shot of a researcher's
+gloved hands using a micropipette to load a small blue-dyed sample into
+a gel electrophoresis tray, faint blue LED light glowing from the gel
+rig. Neatly organized lab bench in soft background blur — pipette tips,
+labeled tubes (labels illegible/generic), a laptop screen glow. Shot on
+a macro lens, shallow depth of field on the hands and pipette tip, cool
+clinical blue-white lighting with a warm accent from the gel box's glow.
+No text, no readable labels. The mood is precise, focused, and quietly
+high-tech."
+
+Chapter 28 — Biotechnology and its Applications
+Summary: A farmer inspecting a healthy, pest-resistant Bt cotton field
+at harvest — biotechnology's real-world agricultural application.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A vast
+cotton field in rural India at golden hour, rows of healthy cotton
+plants heavy with white, unblemished cotton bolls. A farmer walks
+through the rows, gently examining an open cotton boll in his hand,
+inspecting it closely with a satisfied expression, no visible pest damage
+on the surrounding leaves. Warm late-afternoon light, dust motes in the
+air. Shot on a normal-to-telephoto lens, shallow depth of field on the
+farmer's hand and the cotton boll. No text, no labels. The mood is
+practical, hopeful, and grounded in real agricultural life."
+
+==========================================
+CLASS 12 — UNIT: ECOLOGY AND ENVIRONMENT
+==========================================
+
+Chapter 29 — Organisms and Populations
+Summary: A large flock of migratory open-billed storks landing at dusk
+on a West Bengal wetland — population-level behavior in one dramatic
+frame.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A wide
+wetland (jheel) in West Bengal at dusk, warm orange sky reflected in
+still water. A large flock of Asian open-billed storks is captured
+mid-descent, wings spread, landing together among reeds and a few bare
+trees already dotted with roosting birds. Some birds sharp in the
+foreground, others softly blurred further back for depth. Shot on a
+telephoto lens with natural motion in the wingbeats, warm dusk color
+grading. No text, no labels. The mood is dynamic, collective, and alive
+with scale — a population, not a single organism."
+
+Chapter 30 — Ecosystem
+Summary: A Sundarbans mangrove creek at sunrise, its roots, crabs, fish,
+and birds visible together — an entire food web in one frame.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A
+narrow tidal creek within the Sundarbans mangrove forest, West Bengal, at
+sunrise. In the foreground, exposed mangrove prop roots rise from the
+mud, a small red fiddler crab visible on the wet surface; a small
+mudskipper rests nearby; in the mid-ground, shallow water reflects the
+pink sky; in the soft-focus background, a kingfisher perches on a low
+branch watching the water. All elements believable and naturally lit
+within one continuous scene, not composited. Shot on a wide-to-normal
+lens, warm sunrise light, natural color grading. No text, no labels. The
+mood is interconnected and quietly vast — a whole ecosystem glimpsed at
+once."
+
+Chapter 31 — Biodiversity and Conservation
+Summary: A Royal Bengal Tiger moving through Sundarbans mangroves at
+dawn — the site's closing image, biodiversity and conservation embodied
+in its most iconic endangered species.
+Prompt:
+"A photorealistic photograph, vertical 9:16 portrait orientation. A Royal
+Bengal Tiger walks quietly through a misty Sundarbans mangrove forest at
+dawn, West Bengal, its reflection faintly visible in shallow water at its
+feet, tall mangrove roots and soft golden mist framing the scene. The
+tiger is captured mid-stride, alert and powerful but calm, shot from a
+respectful distance as in genuine wildlife photography (National
+Geographic style), natural muted greens and golds, soft volumetric light
+through the mist. Shot on a telephoto lens, shallow depth of field with
+the tiger sharp against a softly blurred forest. No text, no labels. The
+mood is majestic, fragile, and urgent — the emblem of everything
+biodiversity conservation stands to lose."
+
+==========================================
+END OF FILE — 32 image prompts total (1 hero + 31 chapters)
+==========================================

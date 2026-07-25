@@ -1,0 +1,99 @@
+/* english.biology.4sh.education — JS */
+
+// ── Hamburger / Mobile Nav ──
+const hamburger   = document.querySelector('.hamburger');
+const mobileNav   = document.getElementById('mobileNav');
+const navOverlay  = document.getElementById('navOverlay');
+const navClose    = document.querySelector('.mobile-nav-close');
+const mobileLinks = mobileNav?.querySelectorAll('a') ?? [];
+
+function openNav() {
+    mobileNav.classList.add('open');
+    navOverlay.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    hamburger?.setAttribute('aria-expanded', 'true');
+    hamburger?.setAttribute('aria-label', 'Close menu');
+}
+function closeNav() {
+    mobileNav.classList.remove('open');
+    navOverlay.classList.remove('open');
+    document.body.style.overflow = '';
+    hamburger?.setAttribute('aria-expanded', 'false');
+    hamburger?.setAttribute('aria-label', 'Open menu');
+}
+
+hamburger?.addEventListener('click', () => {
+    if (mobileNav.classList.contains('open')) closeNav();
+    else openNav();
+});
+navClose?.addEventListener('click', closeNav);
+navOverlay?.addEventListener('click', closeNav);
+mobileLinks.forEach(link => link.addEventListener('click', closeNav));
+
+// ── Topics dropdown (desktop header) ──
+const topicsDropdown = document.getElementById('topicsDropdown');
+const topicsToggle   = document.getElementById('topicsToggle');
+
+topicsToggle?.addEventListener('click', (e) => {
+    e.stopPropagation();
+    const isOpen = topicsDropdown.classList.toggle('open');
+    topicsToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+});
+document.addEventListener('click', (e) => {
+    if (topicsDropdown?.classList.contains('open') && !topicsDropdown.contains(e.target)) {
+        topicsDropdown.classList.remove('open');
+        topicsToggle?.setAttribute('aria-expanded', 'false');
+    }
+});
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && topicsDropdown?.classList.contains('open')) {
+        topicsDropdown.classList.remove('open');
+        topicsToggle?.setAttribute('aria-expanded', 'false');
+    }
+});
+topicsDropdown?.querySelectorAll('.topics-menu a').forEach(a => a.addEventListener('click', () => {
+    topicsDropdown.classList.remove('open');
+    topicsToggle?.setAttribute('aria-expanded', 'false');
+}));
+
+// ── Scroll Fade-in ──
+const fadeEls = document.querySelectorAll('.fade-in');
+const fadeObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            fadeObserver.unobserve(entry.target);
+        }
+    });
+}, { threshold: 0.15 });
+
+fadeEls.forEach(el => fadeObserver.observe(el));
+
+// ── Active nav highlight on scroll ──
+const navLinks = document.querySelectorAll('.desktop-nav a');
+const sectionObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            navLinks.forEach(link => link.classList.remove('active'));
+            document.querySelector(`.desktop-nav a[href="#${entry.target.id}"]`)?.classList.add('active');
+        }
+    });
+}, { threshold: 0.4 });
+document.querySelectorAll('section[id]').forEach(s => sectionObserver.observe(s));
+
+// ── Click-to-WhatsApp CTA tracking ──
+document.querySelectorAll('.btn-whatsapp').forEach(btn => {
+    btn.addEventListener('click', () => {
+        if (typeof gtag === 'function') {
+            gtag('event', 'whatsapp_click', { event_category: 'contact', event_label: btn.closest('section')?.id || 'contact' });
+        }
+    });
+});
+
+// ── Back to top ──
+const backToTop = document.getElementById('backToTop');
+window.addEventListener('scroll', () => {
+    if (window.scrollY > 400) backToTop?.classList.add('visible');
+    else backToTop?.classList.remove('visible');
+}, { passive: true });
+backToTop?.addEventListener('click', () => window.scrollTo({ top: 0 }));

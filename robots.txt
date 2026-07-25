@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://english.biology.4sh.education/sitemap.xml
