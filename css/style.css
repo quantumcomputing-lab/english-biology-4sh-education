@@ -292,6 +292,20 @@ a.slab-cta {
     margin-bottom: 1rem;
 }
 
+/* ── Unit label — marks the start of a new unit, theme name only, no numbering ── */
+.unit-label {
+    max-width: var(--max-w);
+    margin: 0 auto 1.5rem;
+    padding: 0 2rem;
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--crimson);
+}
+.slab-dark .unit-label { color: #E58A98; }
+
 /* ── Pull quote ── */
 .pull-quote {
     border-left: 3px solid var(--crimson);
